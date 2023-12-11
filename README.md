@@ -14,7 +14,7 @@ Welcome to my digital universe – a melting pot of coding, gaming, and music, w
 ## Collaboration & Innovation 🤝
 - 💡 **Eager for Collaborative Ventures:** I am always on the lookout for exciting collaborative projects. If you have a concept that needs a creative touch, let’s bring it to life together!
 - 📘 **Open to Challenges:** I embrace new challenges with enthusiasm, whether they're in coding, understanding the latest tech trends, or brainstorming innovative project ideas.
-- 📬 **Let's Connect:** Interested in tech, gaming, music, or the latest tech news? I’m here to chat. Reach out to me on GitHub or at ch.hsyahmedgoheer@hotmail.com.
+- 📬 **Let's Connect:** Interested in tech, gaming, music, or the latest tech news? I’m here to chat. Reach out to me on GitHub or at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
 
 Thanks for stopping by! Let's embark on a journey filled with coding artistry, gaming adventures, and collaborations that shape the future. 🚀
 
