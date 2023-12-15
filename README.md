@@ -85,7 +85,7 @@ Embarking on a _**DevOps**_ journey, I navigate tech horizons, embracing new **t
 Open to exploring exciting projects and new challenges **?** _**Let's connect!**_ 🤝
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkdIn" alt="LinkdIn" width="40" height="40"/>&nbsp;
+<a src='https://github.com'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkdIn" alt="LinkdIn" width="40" height="40"/>&nbsp;</a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40"/>&nbsp;
