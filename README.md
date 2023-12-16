@@ -87,9 +87,6 @@ Open to exploring exciting projects and new challenges **?** _**Let's connect!**
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40">](https://twitter.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40">](https://facebook.com)
 
-
-
-
 ## GitHub Journey 📊 
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F" alt="GitHub Streak" /></a>
