@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ahmed-Goheer?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer?style=social)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Hasnat__AhmedG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnat-ahmed-b361642a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/hasnat-ahmed-goheer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
 
@@ -82,7 +82,7 @@ Embarking on a _**DevOps**_ journey, I navigate tech horizons, embracing new **t
 Open to exploring exciting projects and new challenges **?** _**Let's connect!**_ 🤝
 
   <!-- Social media icons -->
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">](https://www.linkedin.com/in/hasnat-ahmed-b361642a5/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">](www.linkedin.com/in/hasnat-ahmed-goheer)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">](https://join.slack.com/t/hasnatsteam/shared_invite/zt-2947bdbyq-DBKPRhymZx~q169vk1uS6w)
 [<img src="https://github.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/assets/126459187/18a58b90-df0e-49f4-a771-96353fc4c7d7" title="StackOverflow" alt="StackOverflow" width="40" height="40">](https://stackoverflow.com/users/21419836/hasnat-ahmed)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40">](https://twitter.com/Hasnat__AhmedG)
