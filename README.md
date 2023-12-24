@@ -86,7 +86,6 @@ Open to exploring exciting projects and new challenges **?** _**Let's connect!**
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">](https://join.slack.com/t/hasnatsteam/shared_invite/zt-2947bdbyq-DBKPRhymZx~q169vk1uS6w)
 [<img src="https://github.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/assets/126459187/18a58b90-df0e-49f4-a771-96353fc4c7d7" title="StackOverflow" alt="StackOverflow" width="40" height="40">](https://stackoverflow.com/users/21419836/hasnat-ahmed)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40">](https://twitter.com/Hasnat__AhmedG)
-[<img src="https://github.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/assets/126459187/d6b6badf-5c72-4679-a5e2-a678b081431f" title="Instagram" alt="Instagram" >](https://twitter.com/Hasnat__AhmedG)
 
 
 ## GitHub Journey 📊 
