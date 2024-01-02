@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Hasnat__AhmedG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnat-ahmed-goheer/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ahmed-Goheer&style=flat-square)
 
 
 
