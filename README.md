@@ -68,7 +68,7 @@ Embarking on a _**DevOps**_ journey, I navigate tech horizons, embracing new **t
 [<img src="https://devicons.railway.app/i/bash.svg" title="Bash" alt="Bash" width="40" height="40">](https://www.gnu.org/software/bash)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">](https://www.python.org/)
 [<img src="https://devicons.railway.app/i/django.svg" title="Django" alt="Django" width="40" height="40">](https://www.djangoproject.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40">](https://cloud.google.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40">](https://azure.microsoft.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">](https://www.docker.com/)
