@@ -55,6 +55,7 @@ _**Coding**_ and _**music**_ go hand in hand in my journey, creating an inspirin
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">](https://www.mysql.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40">](https://ubuntu.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="40" height="40">](https://fedoraproject.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40">](https://code.visualstudio.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40">](https://wordpress.org/)
 
