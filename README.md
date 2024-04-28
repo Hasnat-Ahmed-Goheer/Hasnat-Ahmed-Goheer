@@ -33,7 +33,7 @@ _**Coding**_ and _**music**_ go hand in hand in my journey, creating an inspirin
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40">](https://getbootstrap.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindCSS" alt="tailwindCSS" width="40" height="40">](https://tailwindcss.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindCSS" alt="tailwindCSS" width="40" height="40">](https://tailwindcss.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40">](https://material-ui.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">](https://www.typescriptlang.org/)
