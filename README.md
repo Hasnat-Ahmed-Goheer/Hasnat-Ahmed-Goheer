@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnat-ahmed-goheer/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ahmed-Goheer&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/66e499a9-0f38-4f1e-8710-ae5585ef0f44.svg)](https://wakatime.com/@66e499a9-0f38-4f1e-8710-ae5585ef0f44)
 
 
 
