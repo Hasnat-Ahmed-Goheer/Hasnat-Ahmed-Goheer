@@ -1,74 +1,85 @@
 ![Banner Image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+# Hi there, I'm Hasnat Ahmed Goheer 👋
 
-# Welcome to My Professional Tech Portfolio
-
-![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ahmed-Goheer?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer?style=social)
-[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Hasnat__AhmedG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnat-ahmed-goheer/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ahmed-Goheer&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/66e499a9-0f38-4f1e-8710-ae5585ef0f44.svg)](https://wakatime.com/@66e499a9-0f38-4f1e-8710-ae5585ef0f44)
-
-As a seasoned software developer with a passion for continuous learning, I thrive on mastering new programming languages, diving into game design, and drawing inspiration from music. My dedication to innovation and excellence drives me to embrace new challenges and expand my expertise in the dynamic tech landscape. I am committed to delivering high-quality, scalable solutions and am always open to new opportunities for collaboration and growth.
-
-## Skills and Technologies <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
+<div align="center">
   
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Always+Learning+New+Things)
 
-### Programming Languages
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">](https://en.cppreference.com/w/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">](https://www.typescriptlang.org/)
+[![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ahmed-Goheer?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=3b82f6)](https://github.com/Hasnat-Ahmed-Goheer)
+[![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=f59e0b)](https://github.com/Hasnat-Ahmed-Goheer)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ahmed-Goheer&style=for-the-badge&color=0891b2)](https://github.com/Hasnat-Ahmed-Goheer)
+[![Wakatime](https://wakatime.com/badge/user/66e499a9-0f38-4f1e-8710-ae5585ef0f44.svg?style=for-the-badge)](https://wakatime.com/@66e499a9-0f38-4f1e-8710-ae5585ef0f44)
 
-### Frameworks and Libraries
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">](https://reactjs.org/)
-[<img src="https://devicons.railway.app/i/nextjs-light.svg" title="Next.js" alt="Next.js" width="40" height="40">](https://nextjs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40">](https://redux.js.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="40" height="40">](https://material-ui.com/)
+</div>
 
-### Tools and Platforms
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40">](https://firebase.google.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">](https://git-scm.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40">](https://code.visualstudio.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40">](https://nodejs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40">](https://graphql.org/)
+## 🚀 About Me
 
-### DevOps and Cloud
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40">](https://cloud.google.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40">](https://kubernetes.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40">](https://www.terraform.io/)
+I'm a full-stack software engineer with expertise in building scalable web applications and systems. My technical focus spans from frontend user interfaces to backend architecture, with hands-on experience in modern JavaScript frameworks and cloud technologies as I work towards becoming a DevOps engineer.
 
-### Other Skills
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">](https://getbootstrap.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40">](https://tailwindcss.com/)
+My approach to development emphasizes clean, maintainable code and efficient problem-solving. I enjoy tackling complex technical challenges and continuously expanding my knowledge across emerging technologies and industry best practices.
 
-## Learning and Growth
-Continuously advancing my knowledge in DevOps and other emerging technologies. Recent focus areas include:
+- 🔭 Currently working on modern web applications using React and Node.js
+- ☁️ Practicing with AWS, Docker, and Kubernetes for cloud deployment
+- 🌱 Learning advanced DevOps practices and infrastructure automation
+- 💡 Focused on system design, performance optimization, and scalable solutions
+- 🎯 Contributing to open-source projects and knowledge sharing
+- ⚡ I draw creative inspiration from music and explore game development concepts
 
-[<img src="https://devicons.railway.app/i/rust-light.svg" title="Rust" alt="Rust" width="40" height="40">](https://rust-lang.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40">](https://dotnet.microsoft.com/)
-[<img src="https://devicons.railway.app/i/bash.svg" title="Bash" alt="Bash" width="40" height="40">](https://www.gnu.org/software/bash)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">](https://www.python.org/)
-[<img src="https://devicons.railway.app/i/django.svg" title="Django" alt="Django" width="40" height="40">](https://www.djangoproject.com/)
+## 🛠️ Tech Stack & Expertise <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
 
-## Connect with Me
-I am always open to exploring new projects and opportunities. Let's connect and collaborate!
+<div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/hasnat-ahmed-goheer/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">](https://join.slack.com/t/hasnatsteam/shared_invite/zt-2947bdbyq-DBKPRhymZx~q169vk1uS6w)
-[<img src="https://github.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/assets/126459187/18a58b90-df0e-49f4-a771-96353fc4c7d7" title="Stack Overflow" alt="Stack Overflow" width="40" height="40">](https://stackoverflow.com/users/21419836/hasnat-ahmed)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40">](https://twitter.com/Hasnat__AhmedG)
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=java,cpp,js,ts,python,rust,cs,bash,&theme=dark)](https://skillicons.dev)
 
-## GitHub Stats
-<div>
+### 🎨 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend & Database
+[![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,graphql,prisma,firebase,dotnet,django,express,mysql,postgresql,redis&theme=dark)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,nginx,linux,ubuntu,debian&theme=dark)](https://skillicons.dev)
+
+### 🔧 Development Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,github,figma,postman,idea,vim,notion&theme=dark)](https://skillicons.dev)
+
+## 📊 GitHub Analytics
+
+<div align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ahmed-Goheer&card_width=496&card_height=195&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ahmed-Goheer&layout=compact&theme=sunset-gradient&theme=github_dark&bg_color=45,0D1117,1C2431&card_width=496&card_height=195&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=github_dark" alt="Profile Summary" />
 </div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnat-ahmed-goheer/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hasnat__AhmedG)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21419836/hasnat-ahmed)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/hasnatsteam/shared_invite/zt-2947bdbyq-DBKPRhymZx~q169vk1uS6w)
+
+</div>
+
+
+
+## 🎪 Fun Additions
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+  
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
+</picture>
+
+---
