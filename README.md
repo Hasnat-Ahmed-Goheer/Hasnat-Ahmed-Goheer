@@ -14,9 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack software engineer with expertise in building scalable web applications and systems. My technical focus spans from frontend user interfaces to backend architecture, with hands-on experience in modern JavaScript frameworks and cloud technologies as I work towards becoming a DevOps engineer.
-
-My approach to development emphasizes clean, maintainable code and efficient problem-solving. I enjoy tackling complex technical challenges and continuously expanding my knowledge across emerging technologies and industry best practices.
+I'm a passionate full-stack software engineer specializing in modern web technologies and cloud infrastructure. I focus on creating scalable, efficient solutions that solve real-world problems. My expertise spans across frontend development with React and Next.js, backend systems with Node.js and various databases, and cloud deployment with AWS and Docker.
 
 - 🔭 Currently working on modern web applications using React and Node.js
 - ☁️ Practicing with AWS, Docker, and Kubernetes for cloud deployment
@@ -30,19 +28,22 @@ My approach to development emphasizes clean, maintainable code and efficient pro
 <div align="center">
 
 ### 💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=java,cpp,js,ts,python,rust,cs,bash,&theme=dark)](https://skillicons.dev)
 
+[![Languages](https://skillicons.dev/icons?i=java,cpp,js,ts,python,rust,cs,bash,&theme=dark)](https://skillicons.dev)
+<br><br>
 ### 🎨 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui&theme=dark)](https://skillicons.dev)
-
+<br><br>
 ### ⚙️ Backend & Database
 [![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,graphql,prisma,firebase,dotnet,django,express,mysql,postgresql,redis&theme=dark)](https://skillicons.dev)
-
+<br><br>
 ### ☁️ Cloud & DevOps
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,nginx,linux,ubuntu,debian&theme=dark)](https://skillicons.dev)
-
+<br><br>
 ### 🔧 Development Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,github,figma,postman,idea,vim,notion&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -50,10 +51,20 @@ My approach to development emphasizes clean, maintainable code and efficient pro
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ahmed-Goheer&card_width=496&card_height=195&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ahmed-Goheer&layout=compact&theme=sunset-gradient&theme=github_dark&bg_color=45,0D1117,1C2431&card_width=496&card_height=195&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=github_dark" alt="Profile Summary" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=github_dark" alt="Profile Summary" /> -->
 </div>
 
-## 🤝 Let's Connect
+<br><br> 
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
+</picture>
+</div>
+
+<br><br>
 
 <div align="center">
 
@@ -64,22 +75,10 @@ My approach to development emphasizes clean, maintainable code and efficient pro
 
 </div>
 
-
-
-## 🎪 Fun Additions
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<div align="center">
-  
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hasnat-Ahmed-Goheer/Hasnat-Ahmed-Goheer/output/github-snake.svg">
-</picture>
-
 ---
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
