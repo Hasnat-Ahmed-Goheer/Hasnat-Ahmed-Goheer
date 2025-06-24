@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=fe428e&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Cloud+Solutions+Architect)
 
 [![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ahmed-Goheer?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=3b82f6)](https://github.com/Hasnat-Ahmed-Goheer)
 [![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=f59e0b)](https://github.com/Hasnat-Ahmed-Goheer)
