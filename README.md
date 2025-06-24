@@ -48,10 +48,14 @@ I'm a passionate full-stack software engineer specializing in modern web technol
 ## 📊 GitHub Analytics
 
 <div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ahmed-Goheer&card_width=496&card_height=195&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ahmed-Goheer&layout=compact&theme=sunset-gradient&theme=github_dark&bg_color=45,0D1117,1C2431&card_width=496&card_height=195&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages" />
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=github_dark" alt="Profile Summary" /> -->
+  <div>
+    <!-- Row 1 -->
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=radical" alt="Profile Summary" />
+     <img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=radical&hide_border=true&border_radius=12&card_width=400&stroke=8D6F15&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ahmed-Goheer&card_width=400&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ahmed-Goheer&layout=compact&theme=radical&card_width=400&hide_border=true&border_radius=12" alt="Top Languages" />
+    </div>
+<!-- Row 2 -->
 </div>
 
 <br><br> 
