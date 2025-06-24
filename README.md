@@ -52,7 +52,7 @@ I'm a passionate **full-stack software engineer** specializing in modern web tec
     <!-- Row 1 -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ahmed-Goheer&theme=radical" alt="Profile Summary" />
     <br><br>
-    <img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=radical&hide_border=true&border_radius=12&card_width=400&stroke=8D6F15&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" /> 
+    <img src="https://streak-stats.demolab.com?user=Hasnat-Ahmed-Goheer&theme=radical&hide_border=true&border_radius=12&card_width=400&stroke=8D6F15&fire=FF652F&exclude_days=Sun%2CSat&short_numbers=true" alt="GitHub Streak" /> 
     <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ahmed-Goheer&card_width=400&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="GitHub Stats" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ahmed-Goheer&layout=compact&theme=radical&card_width=400&hide_border=true&border_radius=12" alt="Top Languages" />
