@@ -25,7 +25,7 @@ I'm a passionate **full-stack software engineer** specializing in modern web tec
 
 ## 🛠️ Tech Stack & Expertise <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 
