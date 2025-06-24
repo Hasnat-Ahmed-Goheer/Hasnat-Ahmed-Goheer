@@ -14,14 +14,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack software engineer specializing in modern web technologies and cloud infrastructure. I focus on creating scalable, efficient solutions that solve real-world problems. My expertise spans across frontend development with React and Next.js, backend systems with Node.js and various databases, and cloud deployment with AWS and Docker.
+I'm a passionate **full-stack software engineer** specializing in modern web technologies and cloud infrastructure. I focus on creating scalable, efficient solutions that solve real-world problems. My expertise spans across frontend development with **React** and **Next.js**, backend systems with **Node.js** and various databases, and cloud deployment with **AWS** and **Docker**.
 
-- 🔭 Currently working on modern web applications using React and Node.js
-- ☁️ Practicing with AWS, Docker, and Kubernetes for cloud deployment
-- 🌱 Learning advanced DevOps practices and infrastructure automation
-- 💡 Focused on system design, performance optimization, and scalable solutions
-- 🎯 Contributing to open-source projects and knowledge sharing
-- ⚡ I draw creative inspiration from music and explore game development concepts
+- 🔭 **Currently working on modern web applications using React, Next.js and Node.js**
+- ☁️ **Practicing with AWS, Docker, and Kubernetes for cloud deployment**
+- 🌱 **Learning advanced DevOps practices and infrastructure automation**
+- 💡 **Focused on system design, performance optimization, and scalable solutions**
+- 🎯 **Contributing to open-source projects and knowledge sharing**
+- ⚡ **I draw creative inspiration from music and explore game development concepts**
 
 ## 🛠️ Tech Stack & Expertise <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
 
