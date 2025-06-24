@@ -1,5 +1,5 @@
 ![Banner Image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-# Hi there, I'm Hasnat Ahmed Goheer 👋
+<h1>Hi there, I'm Hasnat Ahmed Goheer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"></h1>
 
 <div align="center">
   
